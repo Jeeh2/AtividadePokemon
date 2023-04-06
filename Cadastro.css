@@ -1,0 +1,13 @@
+h1{
+    font-family: 'DM Sans', sans-serif;
+    text-align: center;
+}
+
+#area {
+    position:relative;
+    left: 29%;
+    top: 29%;
+    width: 480px;
+    height: 270px;
+
+}
