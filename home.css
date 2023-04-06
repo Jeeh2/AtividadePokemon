@@ -1,0 +1,22 @@
+.logo{
+    font: 800 1.31rem 'Poppins', sans-serif;
+    color: rgb(1, 84, 101);
+    top: 16px;
+}
+
+.button{
+    background-color:rgb(6, 143, 155);
+    color: beige;
+    height: 2.5rem;
+    display: inline-flex;
+
+    align-items: center;
+    padding: 0 2rem;
+
+    border-radius: 0.25rem;
+    font: 500 1rem 'DM Sans', sans-serif;
+    transition: background 0.3s;
+
+    position: relative;
+    top: -70px; left:900px
+}
